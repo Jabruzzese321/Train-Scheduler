@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.jumbotron {
+	background-color: rgb(65, 45, 241) !important;
+}
+
+.header {
+	text-align: center;
+}
+
+.lead {
+    font-weight: bold !important;
+}
+
+.button-add {
+	background-color: rgb(5, 146, 87);
+}
